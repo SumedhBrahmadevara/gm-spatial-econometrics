@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+title: Housing Affordability in the Face of Gentrification — Analysis Code
+message: If you use this code, please cite this repository.
+type: software
+authors:
+  - family-names: Brahmadevara
+    given-names: Sumedh
+abstract: >
+  Analysis code for spatial econometrics study of housing affordability and gentrification in Greater Manchester (1991–2021).
+version: 0.1.0
+license: MIT
+repository-code: https://github.com/USERNAME/gm-gentrification-analysis
+date-released: 2025-08-12

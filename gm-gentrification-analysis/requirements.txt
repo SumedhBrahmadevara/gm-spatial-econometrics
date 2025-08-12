@@ -1,0 +1,9 @@
+
+geopandas>=0.14
+shapely>=2.0
+osmnx>=1.9
+pandas>=2.1
+numpy>=1.26
+pyproj>=3.6
+rtree>=1.2
+pytest>=8.0
