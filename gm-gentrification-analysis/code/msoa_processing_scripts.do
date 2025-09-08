@@ -3,8 +3,7 @@ MSOA Data Processing Pipeline
 ================================================================================
 Purpose: Process and merge MSOA (Middle Layer Super Output Area) census data
          across multiple time periods (1991, 2001, 2011, 2021)
-Author:  [Your Name]
-Date:    [Current Date]
+Author:  Sumedh Brahmadevara
 Version: 2.0
 
 Notes:   This script consolidates data processing for all census years and
