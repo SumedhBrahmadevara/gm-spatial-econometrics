@@ -1,7 +1,6 @@
 /*==============================================================================
 Gentrification and Housing Affordability Analysis
-Author: [Your Name]
-Date: [Date]
+Author: Sumedh Brahmadevara
 Description: Analysis of gentrification impacts on housing affordability using 
              MSOA-level census data (1991-2021)
 ==============================================================================*/
