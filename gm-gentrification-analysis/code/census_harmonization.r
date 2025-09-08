@@ -10,8 +10,7 @@
 # - 2011 MSOA shapefile
 # - Greater Manchester MSOA codes (CSV)
 #
-# Author: [Your Name]
-# Date: [Date]
+# Author: Sumedh Brahmadevara
 # ==============================================================================
 
 # Load required libraries
