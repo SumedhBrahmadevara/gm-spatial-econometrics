@@ -31,8 +31,8 @@ Dependencies:
   - shapely
   - pyproj
 
-Author: [Your Name]
-Date: [Date]
+Author: Sumedh Brahmadevara
+Date: 08/05/2025
 Version: 1.0.0
 """
 
